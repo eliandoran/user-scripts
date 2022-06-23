@@ -1,11 +1,11 @@
 // ==UserScript==
-// @name         Minimal Fandom
-// @namespace    http://tampermonkey.net/
+// @name         Minimal fandom.com
+// @namespace    https://eliandoran.me/
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @description  Fandom.com seems a little bit crowded, so this is an opinionated script which tries to simplify the user experience as much as possible.
+// @author       Elian Doran <contact@eliandoran.me>
 // @match        https://*.fandom.com/*
-// @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
+// @icon         https://www.google.com/s2/favicons?domain=fandom.com
 // @grant        none
 // ==/UserScript==
 
