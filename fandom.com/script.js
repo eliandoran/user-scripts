@@ -24,7 +24,6 @@
 
     function addStyle(cssSelector, style) {
         cssContent += `${cssSelector} { ${style}; }\n`;
-        console.log(cssContent);
     }
 
     function hideElement(cssSelector) {
